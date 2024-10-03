@@ -1,0 +1,84 @@
+[
+    {
+        "id" : 1,
+        "name": "Story Book",
+        "title" : "We are dedicated to providing a diverse selection of books",
+        "price" : 0.00,
+        "category" : "free",
+        "image" : "https://img.freepik.com/free-photo/education-day-scene-fantasy-style-aesthetic_23-2151040281.jpg?t=st=1722236248~exp=1722239848~hmac=d0ac31e08c84ec936c435d6983cf44a2fb7d05f4687652727a491092b5c2d016&w=740"
+    },
+
+    {
+        "id" : 2,
+        "name": "Musical Book",
+        "title" : "We are dedicated to providing a diverse selection of books",
+        "price" : 40.00,
+        "category" : "Music",
+        "image" : "https://img.freepik.com/free-vector/live-concert-invitation-template_23-2150998003.jpg?t=st=1722236188~exp=1722239788~hmac=4d90bdf6a291548e4d105aab873b18f464acd30d04ea8b294614a952cd92f0d8&w=740"
+    },
+
+    {
+        "id" : 3,
+        "name": "Encyclopedia Book",
+        "title" : "We are dedicated to providing a diverse selection of books",
+        "price" : 788.00,
+        "category" : "Science",
+        "image" : "https://img.freepik.com/free-psd/science-festival-template-design_23-2150651053.jpg?t=st=1722236158~exp=1722239758~hmac=524ea4c7f39fd869c396c9c3775f03f8164a5382a53b6e5eb99492167fad9fa1&w=740"
+    },
+    {
+        "id" : 4,
+        "name": "English Book",
+        "title" : "We are dedicated to providing a diverse selection of books",
+        "price" : 0.00,
+        "category" : "free",
+        "image" : "https://img.freepik.com/free-psd/language-courses-vertical-poster-template-with-people-geometric-shapes_23-2149431433.jpg?t=st=1722236064~exp=1722239664~hmac=b99e061baab6c260ff19d708c7e2572d3da9800d8675f2bea258508d34cc5b19&w=740"
+    },
+    {
+        "id" : 5,
+        "name": "Novel Book",
+        "title" : "We are dedicated to providing a diverse selection of books",
+        "price" : 0.00,
+        "category" : "free",
+        "image" : "https://img.freepik.com/free-vector/atomic-love-wattpad-book-cover_23-2149231553.jpg?t=st=1722236014~exp=1722239614~hmac=e5f2d17ff05b3f8cb9fbbd2a052fc4176abc2b1a7f43764da2198baf21f9ab1c&w=740"
+    },
+    {
+        "id" : 6,
+        "name": "Thriller Book",
+        "title" : "We are dedicated to providing a diverse selection of books",
+        "price" : 100.00,
+        "category" : "Thriller",
+        "image" : "https://img.freepik.com/free-vector/halloween-party-poster_23-2147695426.jpg?t=st=1722251900~exp=1722255500~hmac=e8f1a0dffcbf2740419e154ab685111117ef2772a2d19d1ff098d3dab794cacd&w=740"
+    },
+    {
+        "id" : 7,
+        "name": "Rhyming Book",
+        "title" : "We are dedicated to providing a diverse selection of books",
+        "price" : 0.00,
+        "category" : "free",
+        "image" : "https://img.freepik.com/free-photo/turn-page-collage_23-2149876323.jpg?t=st=1722236542~exp=1722240142~hmac=794efb00af7bc60060b2a2bfa7bf6538763c2a2bf6fc6d9312155063a6ca3c5a&w=740"
+    },
+    {
+        "id" : 8,
+        "name": "Literature Books",
+        "title" : "We are dedicated to providing a diverse selection of books",
+        "price" : 0.00,
+        "category" : "free",
+        "image" : "https://img.freepik.com/free-psd/world-book-day-celebration-facebook-template_23-2151304644.jpg?t=st=1722236712~exp=1722240312~hmac=0a4870958de546d0c6401d85cfb22be2b6b109cbc518a045ca2accd6c2de4d4b&w=740"
+    },
+    {
+        "id" : 9,
+        "name": "Autobiography Book",
+        "title" : "We are dedicated to providing a diverse selection of books",
+        "price" : 0.00,
+        "category" : "free",
+        "image" : "https://img.freepik.com/free-psd/flyer-fashion-lifestyle_23-2148613431.jpg?t=st=1722236768~exp=1722240368~hmac=56ed46b9b3d20713b112586f046c9832571fe661970e49a7d63f59ccdddec28c&w=740"
+    },
+    {
+        "id" : 10,
+        "name": "Educational Book",
+        "title" : "We are dedicated to providing a diverse selection of books",
+        "price" : 0.00,
+        "category" : "free",
+        "image" : "https://img.freepik.com/free-vector/flat-back-school-card-template_23-2148218105.jpg?t=st=1722236810~exp=1722240410~hmac=46920733e08bc0df2794ab25faae52b40d35de13d9386ae9813529ce0162be32&w=740"
+    }
+]
